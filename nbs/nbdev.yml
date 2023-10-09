@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mindu"
+  site-url: "https://riversdark.github.io/mindu"
+  description: "md analysis made easy"
+  repo-branch: main
+  repo-url: "https://github.com/riversdark/mindu"
