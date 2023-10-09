@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mindu",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "mindu",
+    "section": "Install",
+    "text": "Install\npip install mindu"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "mindu",
+    "section": "How to use",
+    "text": "How to use\nTo be added."
+  },
+  {
+    "objectID": "utils.html",
+    "href": "utils.html",
+    "title": "utils",
+    "section": "",
+    "text": "download PDB file to the current folder from RCSB using its 4-letter code, if not already downloaded\n\nsource\n\ndownload_pdb\n\n download_pdb (pdb_code)\n\n\ndownload_pdb(pdb_code=\"7rpz\")\n\nDownloaded 7rpz.pdb"
+  }
+]
