@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://riversdark.github.io',
                 'git_url': 'https://github.com/riversdark/mindu',
                 'lib_path': 'mindu'},
-  'syms': {'mindu.core': {'mindu.core.foo': ('core.html#foo', 'mindu/core.py')}}}
+  'syms': {'mindu.utils': {'mindu.utils.download_pdb': ('utils.html#download_pdb', 'mindu/utils.py')}}}
