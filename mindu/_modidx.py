@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://riversdark.github.io',
                 'git_url': 'https://github.com/riversdark/mindu',
                 'lib_path': 'mindu'},
-  'syms': {'mindu.utils': {'mindu.utils.download_pdb': ('utils.html#download_pdb', 'mindu/utils.py')}}}
+  'syms': { 'mindu.pl': { 'mindu.pl.Atom': ('pl.html#atom', 'mindu/pl.py'),
+                          'mindu.pl.Atom.__init__': ('pl.html#atom.__init__', 'mindu/pl.py'),
+                          'mindu.pl.Atom.__str__': ('pl.html#atom.__str__', 'mindu/pl.py')},
+            'mindu.utils': {'mindu.utils.download_pdb': ('utils.html#download_pdb', 'mindu/utils.py')}}}
