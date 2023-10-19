@@ -60,7 +60,7 @@ import MDAnalysis as mda
 from MDAnalysis.analysis import align, rms
 import py3Dmol
 
-# %% ../nbs/pl.ipynb 69
+# %% ../nbs/pl.ipynb 73
 class Atom(dict):
   """This class defines a single atom in a PDB file.
   """
